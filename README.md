@@ -14,7 +14,7 @@
 
 <a name="section1"></a>
 ## 1.머신러닝: USA_Flight_Delay_Predictor
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1iVUVBvNUlI8sr5hAfRdsdyFx_LRP_7Ej/view?usp=drive_link)
 * 문제정의  
 ```
 · 프로젝트 D는 OOO을 위한 목표를 가지고 진행한 ML 프로젝트입니다
@@ -35,7 +35,7 @@
 
 <a name="section2"></a>
 ## 2.딥러닝: Block_Assembly_Guide
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16pABspvyObI3Xw5msJ7L3uscr_lf4JN9/view?usp=drive_link)
 * 문제정의  
 ```
 · 프로젝트 D는 OOO을 위한 목표를 가지고 진행한 ML 프로젝트입니다
